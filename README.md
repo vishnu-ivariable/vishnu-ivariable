@@ -1,5 +1,7 @@
 ### Hey, its vishnu here 
 
+I'm currently engaged in closed loop system design for neuromodulation. I have strong passion for programming.
+
 <!--
 **vishnu-ivariable/vishnu-ivariable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
