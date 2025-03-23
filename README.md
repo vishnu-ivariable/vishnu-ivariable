@@ -2,7 +2,7 @@
 
 A **programming enthusiast** with a passion for **hardware and software design**. 🚀  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=500&lines=🔬+Research+Scholar+in+VLSI+at+IIT+Mandi;💡+Exploring+Verilog%2C+Python%2C+FPGA%2C+and+Computer+Architecture;🖥️+Building+cool+projects+from+digital+circuits+to+AI-driven+hardware;⚡+Always+learning+%26+optimizing+for+performance;💻+Let’s+connect+%26+innovate!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=800&lines=💡+Exploring+Verilog%2C+Python%2C+FPGA%2C+and+Computer+Architecture;⚡+Always+learning+%26+optimizing+for+performance;💻+Let’s+connect+%26+innovate!)
 
 ---
 
