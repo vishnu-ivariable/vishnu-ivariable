@@ -8,7 +8,7 @@ A **programming enthusiast** with a passion for **hardware and software design**
 
 ### 🛠️ **Tech Stack**
 ![Verilog](https://img.shields.io/badge/Verilog-Programming-red?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Coding-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Scripting-blue?style=for-the-badge)
 ![FPGA](https://img.shields.io/badge/FPGA-Synthesis-brightgreen?style=for-the-badge)
 ![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-Design-orange?style=for-the-badge)
 
